@@ -1,6 +1,6 @@
-# Welcome to the ***AI Programming with Python Nanodegree - Resources and Guides*** Repository! 🎓
+# Welcome to the ***AI Programming with Python Nanodegree Program Projects*** Repository! 🎓
 
-This repository is a curated collection of **resources, notes, code** and **project walkthroughs** designed to assist students enrolled in or considering the ***AI Programming with Python Nanodegree Program*** by [Udacity](https://www.udacity.com/). Whether you're just starting or looking for additional support, this repository will be your guide throughout the program.
+This repository is a curated collection of **resources, code** and **project walkthroughs** designed to assist students enrolled in or considering the ***AI Programming with Python Nanodegree Program*** by [Udacity](https://www.udacity.com/). Whether you're just starting or looking for additional support, this repository will be your guide throughout the program.
 
 > **Note:** This repository is intended as a learning resource, not a source of solutions for current students. Please respect Udacity's Honor Code and ensure you complete your own work.
 
